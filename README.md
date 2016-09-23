@@ -15,6 +15,10 @@ Codewars style Beast - http://www.codewars.com/users/Beast
 
 #Beast likes
 
+http://www.tiobe.com/tiobe-index/
+
+https://distrowatch.com/
+
 http://www.apple.com/osx/
 
 http://brew.sh/
