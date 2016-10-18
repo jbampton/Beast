@@ -32,5 +32,8 @@ http://www.saxonica.com/welcome/welcome.xml
 https://www.techsmith.com/camtasia.html
 
 
+![Beast cloc](Beast-cloc.png)
+
+
 ##Contributions
 Fork and pull request. Simple.
