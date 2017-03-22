@@ -1,19 +1,19 @@
 # Beast
 
-##Beauty and the Beast...!??!!??
+## Beauty and the Beast...!??!!??
 
-###Bring out the Beast...?!??!!?
+### Bring out the Beast...?!??!!?
 
-####A powerful Beast...?!?!!!!
+#### A powerful Beast...?!?!!!!
 
-#####Beast is tested daily, and is trained by and even more powerful Beast...!?!?!?!!?!
+##### Beast is tested daily, and is trained by and even more powerful Beast...!?!?!?!!?!
 
-######Beast wants to be the most powerful Beast......??!?!!
+###### Beast wants to be the most powerful Beast......??!?!!
 
 Codewars style Beast - http://www.codewars.com/users/Beast
 
 
-#Beast likes
+# Beast likes
 
 http://www.tiobe.com/tiobe-index/
 
@@ -35,5 +35,5 @@ https://www.techsmith.com/camtasia.html
 ![Beast cloc](Beast-cloc.png)
 
 
-##Contributions
+## Contributions
 Fork and pull request. Simple.
